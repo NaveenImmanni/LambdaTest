@@ -28,14 +28,7 @@ public class DragAndDrop {
 	         Thread.sleep(2000);
 	         
 	         btn.doubleClick(drop);
-	         
-	        
-	         
-	         
 	         btn.moveByOffset(80, 0).perform();
-	         
-	        
-	         
 	         btn.release().perform();
 	         
 	        
